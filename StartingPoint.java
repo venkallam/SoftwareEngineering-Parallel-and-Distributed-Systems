@@ -25,4 +25,3 @@ public class StartingPoint {
 }
 
 
-//https://github.com/venkallam/assignment.git
